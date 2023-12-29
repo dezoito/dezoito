@@ -12,6 +12,7 @@ Here's some of the stuff that I've written about:
 
 <p><br/>
 <p>Some tools I am familiar with:
+<p>
 
 <img alt="Python" src="https://img.shields.io/badge/Python-6699FF?style=flat-square&logo=python&logoColor=lightblue"/>
 <img alt="React" src="https://img.shields.io/badge/-React-3366CC?style=flat-square&logo=react&logoColor=white" />
