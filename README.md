@@ -51,6 +51,4 @@ Here's some of the stuff that I've written about:
 
 <p><br>
 
----
-
 To reach out, open an issue in a repository or write a comment on my [blog](https://dezoito.github.io).
