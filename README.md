@@ -35,8 +35,8 @@ Here's some of the stuff that I've written about:
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-<img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
+<img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC293A?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-CC2711?style=flat-square&logo=Oracle&logoColor=white" />
 
 <!-- useful stuff -->
 
