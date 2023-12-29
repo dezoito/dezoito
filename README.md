@@ -10,7 +10,8 @@ Here's some of the stuff that I've written about:
 
 > [Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
 
-<p>
+<p><br/>
+<p>Some tools I am familiar with:
 
 <img alt="Python" src="https://img.shields.io/badge/Python-6699FF?style=flat-square&logo=python&logoColor=lightblue"/>
 <img alt="React" src="https://img.shields.io/badge/-React-3366CC?style=flat-square&logo=react&logoColor=white" />
