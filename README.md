@@ -1,4 +1,7 @@
-`Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...`
+    `Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...`
+    <small>(from some TV show)</small>
+
+I can't talk about work, but started [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), an OSS project to help developers find the best configuration for their Large Language Model projects.
 
 <p><br/>
 
@@ -11,7 +14,7 @@ Here's some of the stuff that I've written about:
 &nbsp;&nbsp;[Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
 
 <p><br/>
-<p>Some tools I am familiar with:
+<p>Some tools I am familiar with (the ones that have badges, at least):
 <p>
 
 <img alt="Python" src="https://img.shields.io/badge/Python-6699FF?style=flat-square&logo=python&logoColor=lightblue"/>
