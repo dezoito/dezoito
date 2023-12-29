@@ -1,4 +1,4 @@
-### Hi there 👋
+### <span style="color: cyan;"><code>Hello, world<blink>\_</blink></code></span>
 
 <!--
 **dezoito/dezoito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
