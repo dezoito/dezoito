@@ -1,8 +1,10 @@
-`Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...`
+> `Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...`
 
-I can't talk about work, but started [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), an OSS project to help developers find the best configuration for their Large Language Model projects.
+---
 
-<p><br/>
+<p>
+
+I started [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), an OSS project to help developers find the best configuration for their Large Language Model projects.
 
 Here's some of the stuff that I've written about:
 
@@ -12,9 +14,7 @@ Here's some of the stuff that I've written about:
 
 &nbsp;&nbsp;[Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
 
-<p><br/>
-<p>Some tools I am familiar with (the ones that have badges, at least):
-<p>
+... and some of the tools I use:
 
 <img alt="Python" src="https://img.shields.io/badge/Python-6699FF?style=flat-square&logo=python&logoColor=lightblue"/>
 <img alt="React" src="https://img.shields.io/badge/-React-3366CC?style=flat-square&logo=react&logoColor=white" />
@@ -46,3 +46,9 @@ Here's some of the stuff that I've written about:
 <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+
+<p><br>
+
+---
+
+To reach out, open an issue in a repository or write a comment on my [blog](https://dezoito.github.io), IDK...
