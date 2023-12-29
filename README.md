@@ -1,6 +1,6 @@
-```
+<code>
 Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...
-```
+</code>
 
 But, here's some stuff I've been working on or writing about:
 
