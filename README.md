@@ -1,5 +1,4 @@
 `Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...`
-<small>(from some TV show)</small>
 
 I can't talk about work, but started [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), an OSS project to help developers find the best configuration for their Large Language Model projects.
 
