@@ -1,21 +1,19 @@
-<code>
-Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...
-</code>
+`Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...`
 
-But, here's some stuff I've been working on or writing about:
+Here's some of the stuff that I've written about:
 
-- [Performing Grid Search on LLMs using Ollama and Rust](https://dezoito.github.io/2023/12/27/rust-ollama-grid-search.html)
+> [Performing Grid Search on LLMs using Ollama and Rust](https://dezoito.github.io/2023/12/27/rust-ollama-grid-search.html)
 
-- [Mirror backend permissions on a React frontend](https://dezoito.github.io/2021/09/09/react-mirror-backend-permissions.html)
+> [Mirror backend permissions on a React frontend](https://dezoito.github.io/2021/09/09/react-mirror-backend-permissions.html)
 
-- [Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
+> [Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
 
 <!--
   **dezoito/dezoito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
