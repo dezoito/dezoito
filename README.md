@@ -1,6 +1,8 @@
-<code style="color: cyan;">
-    Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...
-</code>
+<font color="cyan">
+```
+Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope...
+```
+</font>
 
 <!--
 **dezoito/dezoito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
