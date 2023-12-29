@@ -6,7 +6,7 @@
 
 I started [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), an OSS project to help developers find the best configuration for their Large Language Model projects.
 
-Here's some of the stuff that I've written about:
+Here's some of articles I wrote:
 
 &nbsp;&nbsp;[Performing Grid Search on LLMs using Ollama and Rust](https://dezoito.github.io/2023/12/27/rust-ollama-grid-search.html)
 
@@ -15,7 +15,7 @@ Here's some of the stuff that I've written about:
 &nbsp;&nbsp;[Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
 
 <p><br/>
-... and some of the tools I use:
+... and some of the tools I'm familiar with:
 <p>
 
 <img alt="Python" src="https://img.shields.io/badge/Python-6699FF?style=flat-square&logo=python&logoColor=lightblue"/>
