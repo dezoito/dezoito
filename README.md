@@ -8,11 +8,11 @@ I started [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), a
 
 Here's some of articles I wrote:
 
-&nbsp;&nbsp;[Performing Grid Search on LLMs using Ollama and Rust](https://dezoito.github.io/2023/12/27/rust-ollama-grid-search.html)
+- [Grid Search on Large Language Models using Ollama and Rust](https://dezoito.github.io/2023/12/27/rust-ollama-grid-search.html)
 
-&nbsp;&nbsp;[Mirror backend permissions on a React frontend](https://dezoito.github.io/2021/09/09/react-mirror-backend-permissions.html)
+- [Mirror backend permissions on a React frontend](https://dezoito.github.io/2021/09/09/react-mirror-backend-permissions.html)
 
-&nbsp;&nbsp;[Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
+- [Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
 
 <p><br/>
 ... and some of the tools I'm familiar with:
