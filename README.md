@@ -1,4 +1,4 @@
-> _Hello, friend. Hello, friend? That's lame. Maybe I should give you a name, but that's a slippery slope..._
+_No care for frontend/backend dichotomies... Let me build, bro!_
 
 ---
 
