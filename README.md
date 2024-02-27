@@ -1,4 +1,4 @@
-_No care for frontend/backend dichotomies... Let me build, bro!_
+_No care for frontend/backend dichotomies..._
 
 ---
 
