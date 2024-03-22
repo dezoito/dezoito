@@ -1,5 +1,4 @@
-<img alt="Global Thermonuclear War" src="./images/global_thermonuclear_war.png" height="35
-0"/>
+<img alt="Global Thermonuclear War" src="./images/global_thermonuclear_war.png" height="350"/>
 
 ---
 
