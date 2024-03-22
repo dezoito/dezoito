@@ -1,4 +1,5 @@
-<img alt="Global Thermonuclear War" src="./images/global_thermonuclear_war.png" height="350"/>
+<img alt="Global Thermonuclear War" src="./images/global_thermonuclear_war.png" height="35
+0"/>
 
 ---
 
@@ -9,6 +10,8 @@ I started [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), a
 Here's some of articles I wrote:
 
 - [Grid Search on Large Language Models using Ollama and Rust](https://dezoito.github.io/2023/12/27/rust-ollama-grid-search.html)
+
+- [Limited Concurrency for Multiple API calls in React](https://dezoito.github.io/2024/03/21/react-limited-concurrency.html)
 
 - [Mirror backend permissions on a React frontend](https://dezoito.github.io/2021/09/09/react-mirror-backend-permissions.html)
 
