@@ -8,6 +8,8 @@ I started [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), a
 
 Here's some of articles I wrote:
 
+- [Testing Multiple LLMs in one Pass](https://dezoito.github.io/2024/03/28/Testing-multiple-LLMs.html)
+
 - [Grid Search on Large Language Models using Ollama and Rust](https://dezoito.github.io/2023/12/27/rust-ollama-grid-search.html)
 
 - [Limited Concurrency for Multiple API calls in React](https://dezoito.github.io/2024/03/21/react-limited-concurrency.html)
