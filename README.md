@@ -1,10 +1,4 @@
-<img alt="Global Thermonuclear War" src="./images/global_thermonuclear_war.png" height="350"/>
-
----
-
-<p>
-
-I started [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), an OSS project to help developers find the best configuration for their Large Language Model projects.
+Currently working on [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), an OSS desktop application to help developers find the best configuration for their Large Language Model projects.
 
 Here's some of articles I wrote:
 
