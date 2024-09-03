@@ -13,7 +13,7 @@ Here's a few articles I wrote:
 - [Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
 
 <p><br/>
-... some relevant ML projects I contributed to:
+... some ML related projects I contributed to:
 <p>
 
 - [MicrosoftDocs/mslearn-intro-to-form-recognizer](https://github.com/MicrosoftDocs/mslearn-intro-to-form-recognizer)
