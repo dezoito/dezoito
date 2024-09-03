@@ -1,4 +1,4 @@
-Currently working on [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), an OSS desktop application to help developers find the best configuration for their Large Language Model projects.
+Currently working on [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), a desktop application that lets developers find the best model and configurations for their Large Language Model projects.
 
 Here's a few articles I wrote:
 
