@@ -1,6 +1,6 @@
 Currently working on [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), an OSS desktop application to help developers find the best configuration for their Large Language Model projects.
 
-Here's some of articles I wrote:
+Here's a few articles I wrote:
 
 - [Comparing Multiple Large Language Models in one Pass](https://dezoito.github.io/2024/03/28/comparing-from-multiple-LLMs.html)
 
@@ -11,6 +11,14 @@ Here's some of articles I wrote:
 - [Mirror backend permissions on a React frontend](https://dezoito.github.io/2021/09/09/react-mirror-backend-permissions.html)
 
 - [Asynchronous List Searches using Bing Search API](https://dezoito.github.io/2020/05/16/node-asynchronous-list-searches-with-bing-api.html)
+
+<p><br/>
+... some relevant ML projects I contributed to:
+<p>
+
+- [MicrosoftDocs/mslearn-intro-to-form-recognizer](https://github.com/MicrosoftDocs/mslearn-intro-to-form-recognizer)
+
+- [MicrosoftDocs/mslearn-introduction-to-machine-learning](https://github.com/MicrosoftDocs/mslearn-introduction-to-machine-learning)
 
 <p><br/>
 ... and some of the tools I'm familiar with:
