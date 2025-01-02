@@ -2,6 +2,8 @@ Currently working on [Ollama Grid Search](https://github.com/dezoito/ollama-grid
 
 Here are a few articles I've written:
 
+- [Rust: Embedding a SQLite database in a Taurus Application](https://dezoito.github.io/2025/01/01/embedding-sqlite-in-a-taurus-application.html)
+
 - [Comparing Multiple Large Language Models in one Pass](https://dezoito.github.io/2024/03/28/comparing-from-multiple-LLMs.html)
 
 - [Grid Search on Large Language Models using Ollama and Rust](https://dezoito.github.io/2023/12/27/rust-ollama-grid-search.html)
