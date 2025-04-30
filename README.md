@@ -1,4 +1,7 @@
-Currently working on [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), a desktop application that lets developers find the best model and configurations for their Large Language Model projects.
+Currently working on:
+- [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search), a desktop application that lets developers find the best model and configurations for their Large Language Model projects.
+
+- [MarkItDown API](https://github.com/dezoito/markitdown-api), A low resource API server powered by Microsoft's [MarkItDown](https://github.com/microsoft/markitdown) that converts various document formats (PDF, DOCX, XLSX and others!) to markdown, making their content LLM-ready.
 
 Here are a few articles I've written:
 
